@@ -1,7 +1,7 @@
 
 # Voicestack - Dental Call Analytics Dashboard
 
-A comprehensive Streamlit dashboard for analyzing dental practice front desk call operations with real AI classification.
+A comprehensive Streamlit dashboard for analyzing dental practice front desk call operations with AI classification.
 
 ## 🚀 Features
 
