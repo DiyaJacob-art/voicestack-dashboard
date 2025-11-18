@@ -42,6 +42,25 @@ cd voicestack-dental-dashboard
 <img width="1774" height="614" alt="Screenshot 2025-11-18 125710" src="https://github.com/user-attachments/assets/62bcbf9b-aeed-4e13-bdc1-1091b151cb76" />
 <img width="1604" height="663" alt="Screenshot 2025-11-18 125718" src="https://github.com/user-attachments/assets/c3b13c87-6025-4f03-8bf9-1487c767501b" />
 <img width="1761" height="898" alt="Screenshot 2025-11-18 125739" src="https://github.com/user-attachments/assets/a89fb4d2-7df9-4028-9d41-2a862ccf24e1" />
+<img width="1765" height="794" alt="Screenshot 2025-11-18 131000" src="https://github.com/user-attachments/assets/c149cbe0-faae-41d0-bb2a-57ccd0cc2ceb" />
+<img width="1782" height="818" alt="Screenshot 2025-11-18 131019" src="https://github.com/user-attachments/assets/908d24ce-498d-46f8-bd66-abda7b7a7d8c" />
+<img width="1744" height="349" alt="Screenshot 2025-11-18 131043" src="https://github.com/user-attachments/assets/72249c1c-5ace-4b55-9edd-4cd8c9fd1643" />
+<img width="1773" height="772" alt="Screenshot 2025-11-18 131057" src="https://github.com/user-attachments/assets/2578fc03-8d23-4ab3-aabb-ed7283095877" />
+<img width="1716" height="290" alt="Screenshot 2025-11-18 131107" src="https://github.com/user-attachments/assets/d6c081db-d175-48b3-9843-b4f2d82bca20" />
+<img width="1783" height="761" alt="Screenshot 2025-11-18 131118" src="https://github.com/user-attachments/assets/88176886-a235-4898-aee8-1237b3587f28" />
+<img width="1739" height="376" alt="Screenshot 2025-11-18 131130" src="https://github.com/user-attachments/assets/8df9c39c-fa4e-4e49-9fbc-9d68f5aeb75e" />
+<img width="1741" height="799" alt="Screenshot 2025-11-18 131157" src="https://github.com/user-attachments/assets/03e64fac-e63e-4a24-bcbf-ef5b9f5588b0" />
+<img width="1610" height="235" alt="Screenshot 2025-11-18 131208" src="https://github.com/user-attachments/assets/a1beed37-38e8-40c9-b722-d621c4204f15" />
+<img width="831" height="788" alt="Screenshot 2025-11-18 131216" src="https://github.com/user-attachments/assets/006426d4-5a9e-40ac-bd1b-5730f8b7acd0" />
+
+
+
+
+
+
+
+
+
 
 
 
