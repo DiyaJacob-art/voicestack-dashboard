@@ -18,10 +18,17 @@ A comprehensive Streamlit dashboard for analyzing dental practice front desk cal
 
 ## 🛠 Installation & Setup
 
-### 1. Clone or Download this Project
-```bash
+1.Install Dependencies
+pip install -r requirements.txt
+
+
+2.Run the dashboard
+streamlit run app.py
+
 # If using git
 git clone <your-repository-url>
 cd voicestack-dental-dashboard
 
 # Or simply download all files to a folder
+
+
