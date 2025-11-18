@@ -23,7 +23,7 @@ pip install -r requirements.txt
 
 
 2.Run the dashboard
-streamlit run app.py
+streamlit run app3.py
 
 # If using git
 git clone <your-repository-url>
