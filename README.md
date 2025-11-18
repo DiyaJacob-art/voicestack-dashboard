@@ -30,5 +30,6 @@ git clone <your-repository-url>
 cd voicestack-dental-dashboard
 
 # Or simply download all files to a folder
+<img width="1899" height="915" alt="Screenshot 2025-11-18 125511" src="https://github.com/user-attachments/assets/3b8ee30f-8aae-4a93-87f2-10b5ef658773" />
 
 
